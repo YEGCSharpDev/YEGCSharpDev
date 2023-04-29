@@ -2,4 +2,4 @@
 - 👀 I’m interested in C#, .NET and Web Services
 - 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate on Open Source Projects.
-- 📫 How to reach me [to be updated]
+- 📫 How to reach me - Discord : Chopstickwizard#8298
