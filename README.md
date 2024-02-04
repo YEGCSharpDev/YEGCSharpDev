@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @YEGCSharpDev
+- 👋 Hi, I’m @YEGCSharpDev (YEG - Edmonton | CSharp | Dev)
 - 👀 I’m interested in C#, .NET, and Web Services
-- 🌱 I’m currently learning C#
+- 🌱 I’m currently playing around with C#
 - 💞️ I’m looking to collaborate on Open Source Projects.
 - 📫 How to reach me - Discord : Chopstickwizard
